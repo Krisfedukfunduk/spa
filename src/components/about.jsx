@@ -1,8 +1,9 @@
+import rats from './rats.png';
 function About() {
     return (
         <>
             <div className="book">
-                <img src={"rats.png"} alt="книга рецептов" />
+            <img src={rats} alt="книга рецептов" />
                 <span></span>
             </div>
         </>
