@@ -23,7 +23,7 @@ function NoMatch() {
 function App() {
   return (
     <>
-      <BrowserRouter basename="/spa">
+      <BrowserRouter basename="/spf">
         <Header />
         <main className="container content">
           <Routes>
